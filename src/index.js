@@ -1,4 +1,4 @@
-import express from 'express';
+zingimport express from 'express';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import dotenv from 'dotenv';
@@ -26,7 +26,7 @@ app.get('/', (req, res) => {
     </head>
     <body>
       <div class="container">
-        <h1>Hello World from ${regionName}, wassuuup</h1>
+        <h1>Hello World from amejzing ${regionName}, wassuuup</h1>
       </div>
     </body>
     </html>
